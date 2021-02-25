@@ -1,0 +1,18 @@
+shopList中需要的参数
+        |
+        |----------id
+        |----------name
+        |----------latitude
+        |----------longitude
+        |----------address
+        |----------month_sales_tip
+        |----------wm_poi_score
+        |----------trade_area
+        |----------shipping_time
+        |----------pic_url
+        |----------third_category
+        |----------
+        |
+        |
+        |
+        |

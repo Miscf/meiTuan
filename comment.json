@@ -1,0 +1,1535 @@
+{
+    "data": {
+        "comment_num": 446,
+        "avg_ship_time": 0,
+        "comment_score": 0.0,
+        "food_score": 0.0,
+        "delivery_score": 0.0,
+        "quality_score": 0.0,
+        "pack_score": 0.0,
+        "filter_type_num": 446,
+        "comment_score_type_infos": [
+            {
+                "comment_score_type": 0,
+                "total_count": 446,
+                "comment_score_title": "全部"
+            },
+            {
+                "comment_score_type": 8,
+                "total_count": 446,
+                "comment_score_title": "最新"
+            },
+            {
+                "comment_score_type": 1,
+                "total_count": 425,
+                "comment_score_title": "好评"
+            },
+            {
+                "comment_score_type": 3,
+                "total_count": 10,
+                "comment_score_title": "差评"
+            },
+            {
+                "comment_score_type": 10,
+                "total_count": 37,
+                "comment_score_title": "有图/视频"
+            },
+            {
+                "comment_score_type": 9,
+                "total_count": 6,
+                "comment_score_title": "商家回复"
+            }
+        ],
+        "comments": [
+            {
+                "user_name": "MOz84386534",
+                "ship_score": 0.0,
+                "ship_time": 17,
+                "comment": "老客户了很喜欢这家的味道图片里边吃的空空的。￼说明本人很喜欢，特别是新品面条好吃。￼￼#德式香肠铁板面# #德式香肠铁板面#",
+                "comment_type": 4,
+                "order_time": 1607788800,
+                "comment_time": 1607788800,
+                "ctime": 0,
+                "order_comment_score": 5,
+                "praise_food_tip": "德式香肠铁板面等",
+                "critic_food_tip": "",
+                "wm_comment_id": 3967332008,
+                "user_id": 65035040,
+                "user_poi_comment_num": 1,
+                "add_comment_list": [],
+                "comment_labels": [
+                    {
+                        "content": "快速准时",
+                        "label_type": 1
+                    },
+                    {
+                        "content": "货品完好",
+                        "label_type": 1
+                    }
+                ],
+                "order_type": 1,
+                "delivery_type": 0,
+                "delivery_name": "",
+                "comment_pics": [
+                    {
+                        "url": "https://p0.meituan.net/wmcomment/0a59ff03c2d7262400872862a59dc78898792.jpg.webp",
+                        "thumbnail_url": "https://p0.meituan.net/wmcomment/0a59ff03c2d7262400872862a59dc78898792.jpg.webp"
+                    }
+                ],
+                "user_pic_url": "https://img.meituan.net/avatar/4f98d82418e3bf1b435647c80d8dfdfc187467.jpg",
+                "food_comment_score": 5,
+                "delivery_comment_score": 5,
+                "has_add_comment": false,
+                "is_picture_audited": false,
+                "poi_id": 0,
+                "scheme": "",
+                "comment_source_tip": "",
+                "comment_source_type": 3,
+                "praise_food_list": [
+                    {
+                        "name": "德式香肠铁板面",
+                        "schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=3511302882&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=3937086257&referer_source=1",
+                        "spu_id": 3511302882,
+                        "sku_id": 3937086257
+                    }
+                ],
+                "comment_scheme": [
+                    {
+                        "keyword": "德式香肠铁板面",
+                        "spu_id": 3511302882,
+                        "sku_id": 3937086257,
+                        "scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=3511302882&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=3937086257&referer_source=0"
+                    }
+                ],
+                "is_anonymous": 0,
+                "quality_score": 0,
+                "pack_score": 5,
+                "buz_code": 0,
+                "can_additional": 1,
+                "disable_additional_msg": "",
+                "high_quality": 0,
+                "is_dp": 0,
+                "user_type": 0,
+                "satisfaction_icon": "",
+                "spu_id_list": [],
+                "accurate_comment_score": 0,
+                "biz_type": 0,
+                "useful_count": 0,
+                "current_user_useful": false,
+                "user_labels": [
+                    {
+                        "type": 2,
+                        "text": "回头客"
+                    }
+                ]
+            },
+            {
+                "user_name": "曹颖696",
+                "ship_score": 0.0,
+                "ship_time": 55,
+                "comment": "口味赞👍🏻包装好👌🏻推荐给大家！🎉#美式牛肉蛋堡#",
+                "comment_type": 4,
+                "order_time": 1606320000,
+                "comment_time": 1606320000,
+                "ctime": 0,
+                "order_comment_score": 5,
+                "praise_food_tip": "美式牛肉蛋堡等",
+                "critic_food_tip": "",
+                "wm_comment_id": 3911071585,
+                "user_id": 537479861,
+                "user_poi_comment_num": 1,
+                "add_comment_list": [],
+                "comment_labels": [],
+                "order_type": 2,
+                "delivery_type": 0,
+                "delivery_name": "",
+                "comment_pics": [
+                    {
+                        "url": "https://p0.meituan.net/wmcomment/1335cfc48a62183f93e1f9593d43638597404.jpg.webp",
+                        "thumbnail_url": "https://p0.meituan.net/wmcomment/1335cfc48a62183f93e1f9593d43638597404.jpg.webp"
+                    },
+                    {
+                        "url": "https://p0.meituan.net/wmcomment/ea2b48bfac969a996e40b69029e205b7169894.jpg.webp",
+                        "thumbnail_url": "https://p0.meituan.net/wmcomment/ea2b48bfac969a996e40b69029e205b7169894.jpg.webp"
+                    }
+                ],
+                "user_pic_url": "https://img.meituan.net/avatar/cc28da2b73bca8cf15abd2230497f7d8104706.jpg",
+                "food_comment_score": 5,
+                "delivery_comment_score": 5,
+                "has_add_comment": false,
+                "is_picture_audited": false,
+                "poi_id": 0,
+                "scheme": "",
+                "comment_source_tip": "",
+                "comment_source_type": 3,
+                "praise_food_list": [
+                    {
+                        "name": "美式牛肉蛋堡",
+                        "schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=2035838435&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=2317704752&referer_source=1",
+                        "spu_id": 2035838435,
+                        "sku_id": 2317704752
+                    }
+                ],
+                "comment_scheme": [
+                    {
+                        "keyword": "美式牛肉蛋堡",
+                        "spu_id": 2035838435,
+                        "sku_id": 2317704752,
+                        "scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=2035838435&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=2317704752&referer_source=0"
+                    }
+                ],
+                "is_anonymous": 0,
+                "quality_score": 0,
+                "pack_score": 5,
+                "buz_code": 0,
+                "can_additional": 1,
+                "disable_additional_msg": "",
+                "high_quality": 0,
+                "is_dp": 0,
+                "user_type": 0,
+                "satisfaction_icon": "",
+                "spu_id_list": [],
+                "accurate_comment_score": 0,
+                "biz_type": 0,
+                "useful_count": 1,
+                "current_user_useful": false,
+                "user_labels": [
+                    {
+                        "type": 1,
+                        "text": "美团会员"
+                    },
+                    {
+                        "type": 2,
+                        "text": "回头客"
+                    }
+                ]
+            },
+            {
+                "user_name": "匿名用户",
+                "ship_score": 0.0,
+                "ship_time": 54,
+                "comment": "冬天的原因，送过来已经冷了，不过有微波炉可以加热，也不影响味道，加热后芝士都直接流出来了，很爽，大冬天的辛苦外卖小哥了，实在太冷了",
+                "comment_type": 4,
+                "order_time": 1607616000,
+                "comment_time": 1607616000,
+                "ctime": 0,
+                "order_comment_score": 5,
+                "praise_food_tip": "肉弹堡等",
+                "critic_food_tip": "",
+                "wm_comment_id": 3960440015,
+                "user_id": 0,
+                "user_poi_comment_num": 1,
+                "add_comment_list": [],
+                "comment_labels": [],
+                "order_type": 1,
+                "delivery_type": 0,
+                "delivery_name": "",
+                "comment_pics": [],
+                "user_pic_url": "http://p0.meituan.net/scarlett/8f283c9d7c6e7748b703502eaf4bb3ab5094.png",
+                "food_comment_score": 5,
+                "delivery_comment_score": 5,
+                "has_add_comment": false,
+                "is_picture_audited": false,
+                "poi_id": 0,
+                "scheme": "",
+                "comment_source_tip": "",
+                "comment_source_type": 3,
+                "praise_food_list": [
+                    {
+                        "name": "肉弹堡",
+                        "schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=3511302885&wmpoiid=1019617870594095&sputag=&activitytag=discount&sku_id=3937086260&referer_source=1",
+                        "spu_id": 3511302885,
+                        "sku_id": 3937086260
+                    }
+                ],
+                "comment_scheme": [
+                    {
+                        "keyword": "肉弹堡",
+                        "spu_id": 3511302885,
+                        "sku_id": 3937086260,
+                        "scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=3511302885&wmpoiid=1019617870594095&sputag=&activitytag=discount&sku_id=3937086260&referer_source=0"
+                    }
+                ],
+                "is_anonymous": 1,
+                "quality_score": 0,
+                "pack_score": 5,
+                "buz_code": 0,
+                "can_additional": 1,
+                "disable_additional_msg": "",
+                "high_quality": 0,
+                "is_dp": 0,
+                "user_type": 0,
+                "satisfaction_icon": "",
+                "spu_id_list": [],
+                "accurate_comment_score": 0,
+                "biz_type": 0,
+                "useful_count": 0,
+                "current_user_useful": false,
+                "user_labels": [
+                    {
+                        "type": 1,
+                        "text": "美团会员"
+                    }
+                ]
+            },
+            {
+                "user_name": "曹颖696",
+                "ship_score": 0.0,
+                "ship_time": 143,
+                "comment": "口味赞👍🏻包装好👌🏻推荐给大家！#美式牛肉蛋堡# #肉弹吐司#",
+                "comment_type": 4,
+                "order_time": 1604073600,
+                "comment_time": 1604073600,
+                "ctime": 0,
+                "order_comment_score": 5,
+                "praise_food_tip": "美式牛肉蛋堡,肉弹吐司等",
+                "critic_food_tip": "",
+                "wm_comment_id": 3828083350,
+                "user_id": 537479861,
+                "user_poi_comment_num": 1,
+                "add_comment_list": [],
+                "comment_labels": [],
+                "order_type": 2,
+                "delivery_type": 0,
+                "delivery_name": "",
+                "comment_pics": [
+                    {
+                        "url": "https://p0.meituan.net/wmcomment/b1ffb2c705aa36a9cf43fcc0572c0aa5129569.jpg.webp",
+                        "thumbnail_url": "https://p0.meituan.net/wmcomment/b1ffb2c705aa36a9cf43fcc0572c0aa5129569.jpg.webp"
+                    },
+                    {
+                        "url": "https://p0.meituan.net/wmcomment/ed63f0dd4f833470a79bac19662501ee175558.jpg.webp",
+                        "thumbnail_url": "https://p0.meituan.net/wmcomment/ed63f0dd4f833470a79bac19662501ee175558.jpg.webp"
+                    }
+                ],
+                "user_pic_url": "https://img.meituan.net/avatar/cc28da2b73bca8cf15abd2230497f7d8104706.jpg",
+                "food_comment_score": 5,
+                "delivery_comment_score": 5,
+                "has_add_comment": false,
+                "is_picture_audited": false,
+                "poi_id": 0,
+                "scheme": "",
+                "comment_source_tip": "",
+                "comment_source_type": 3,
+                "praise_food_list": [
+                    {
+                        "name": "美式牛肉蛋堡",
+                        "schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=2035838435&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=2317704752&referer_source=1",
+                        "spu_id": 2035838435,
+                        "sku_id": 2317704752
+                    },
+                    {
+                        "name": "肉弹吐司",
+                        "schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=227678455&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=247520746&referer_source=1",
+                        "spu_id": 227678455,
+                        "sku_id": 247520746
+                    }
+                ],
+                "comment_scheme": [
+                    {
+                        "keyword": "美式牛肉蛋堡",
+                        "spu_id": 2035838435,
+                        "sku_id": 2317704752,
+                        "scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=2035838435&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=2317704752&referer_source=0"
+                    },
+                    {
+                        "keyword": "肉弹吐司",
+                        "spu_id": 227678455,
+                        "sku_id": 247520746,
+                        "scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=227678455&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=247520746&referer_source=0"
+                    }
+                ],
+                "is_anonymous": 0,
+                "quality_score": 0,
+                "pack_score": 5,
+                "buz_code": 0,
+                "can_additional": 1,
+                "disable_additional_msg": "",
+                "high_quality": 0,
+                "is_dp": 0,
+                "user_type": 0,
+                "satisfaction_icon": "",
+                "spu_id_list": [],
+                "accurate_comment_score": 0,
+                "biz_type": 0,
+                "useful_count": 0,
+                "current_user_useful": false,
+                "user_labels": [
+                    {
+                        "type": 1,
+                        "text": "美团会员"
+                    },
+                    {
+                        "type": 2,
+                        "text": "回头客"
+                    }
+                ]
+            },
+            {
+                "user_name": "匿名用户",
+                "ship_score": 0.0,
+                "ship_time": 20,
+                "comment": "#肉弹吐司#味道很赞 做早餐很舒服 骑手也很快",
+                "comment_type": 4,
+                "order_time": 1606147200,
+                "comment_time": 1606147200,
+                "ctime": 0,
+                "order_comment_score": 5,
+                "praise_food_tip": "",
+                "critic_food_tip": "",
+                "wm_comment_id": 3902878592,
+                "user_id": 0,
+                "user_poi_comment_num": 1,
+                "add_comment_list": [],
+                "comment_labels": [
+                    {
+                        "content": "仪表整洁",
+                        "label_type": 1
+                    },
+                    {
+                        "content": "货品完好",
+                        "label_type": 1
+                    },
+                    {
+                        "content": "风雨无阻",
+                        "label_type": 1
+                    },
+                    {
+                        "content": "礼貌热情",
+                        "label_type": 1
+                    },
+                    {
+                        "content": "穿戴工服",
+                        "label_type": 1
+                    },
+                    {
+                        "content": "快速准时",
+                        "label_type": 1
+                    }
+                ],
+                "order_type": 1,
+                "delivery_type": 0,
+                "delivery_name": "",
+                "comment_pics": [
+                    {
+                        "url": "https://p0.meituan.net/wmcomment/b32a971c2578d2cf032125c94f66c3dd119981.jpg.webp",
+                        "thumbnail_url": "https://p0.meituan.net/wmcomment/b32a971c2578d2cf032125c94f66c3dd119981.jpg.webp"
+                    }
+                ],
+                "user_pic_url": "http://p0.meituan.net/scarlett/8f283c9d7c6e7748b703502eaf4bb3ab5094.png",
+                "food_comment_score": 5,
+                "delivery_comment_score": 5,
+                "has_add_comment": false,
+                "is_picture_audited": false,
+                "poi_id": 0,
+                "scheme": "",
+                "comment_source_tip": "",
+                "comment_source_type": 3,
+                "praise_food_list": [],
+                "comment_scheme": [
+                    {
+                        "keyword": "肉弹吐司",
+                        "spu_id": 227678455,
+                        "sku_id": 247520746,
+                        "scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=227678455&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=247520746&referer_source=0"
+                    }
+                ],
+                "is_anonymous": 1,
+                "quality_score": 0,
+                "pack_score": 5,
+                "buz_code": 0,
+                "can_additional": 1,
+                "disable_additional_msg": "",
+                "high_quality": 0,
+                "is_dp": 0,
+                "user_type": 0,
+                "satisfaction_icon": "",
+                "spu_id_list": [],
+                "accurate_comment_score": 0,
+                "biz_type": 0,
+                "useful_count": 0,
+                "current_user_useful": false,
+                "user_labels": [
+                    {
+                        "type": 1,
+                        "text": "美团会员"
+                    }
+                ]
+            },
+            {
+                "user_name": "junkiku",
+                "ship_score": 0.0,
+                "ship_time": 45,
+                "comment": "今天的肉饼味道不对。有股骚味。只吃了一口扔掉了。希望以后买肉时候注意下。",
+                "comment_type": 4,
+                "order_time": 1606060800,
+                "comment_time": 1606060800,
+                "ctime": 0,
+                "order_comment_score": 4,
+                "praise_food_tip": "美式咖啡（新）等",
+                "critic_food_tip": "肉弹吐司等",
+                "wm_comment_id": 3900200060,
+                "user_id": 28329850,
+                "user_poi_comment_num": 1,
+                "add_comment_list": [],
+                "comment_labels": [],
+                "order_type": 1,
+                "delivery_type": 0,
+                "delivery_name": "",
+                "comment_pics": [],
+                "user_pic_url": "http://p0.meituan.net/scarlett/8f283c9d7c6e7748b703502eaf4bb3ab5094.png",
+                "food_comment_score": 4,
+                "delivery_comment_score": 5,
+                "has_add_comment": false,
+                "is_picture_audited": false,
+                "poi_id": 0,
+                "scheme": "",
+                "comment_source_tip": "",
+                "comment_source_type": 3,
+                "praise_food_list": [
+                    {
+                        "name": "美式咖啡（新）",
+                        "schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=3216458295&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=3603527294&referer_source=1",
+                        "spu_id": 3216458295,
+                        "sku_id": 3603527294
+                    }
+                ],
+                "comment_scheme": [
+                    {
+                        "keyword": "肉弹吐司",
+                        "spu_id": 227678455,
+                        "sku_id": 247520746,
+                        "scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=227678455&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=247520746&referer_source=0"
+                    }
+                ],
+                "is_anonymous": 0,
+                "quality_score": 0,
+                "pack_score": 4,
+                "buz_code": 0,
+                "can_additional": 1,
+                "disable_additional_msg": "",
+                "high_quality": 0,
+                "is_dp": 0,
+                "user_type": 0,
+                "satisfaction_icon": "",
+                "spu_id_list": [],
+                "accurate_comment_score": 0,
+                "biz_type": 0,
+                "useful_count": 0,
+                "current_user_useful": false,
+                "user_labels": [
+                    {
+                        "type": 1,
+                        "text": "美团会员"
+                    },
+                    {
+                        "type": 2,
+                        "text": "回头客"
+                    }
+                ]
+            },
+            {
+                "user_name": "匿名用户",
+                "ship_score": 0.0,
+                "ship_time": 31,
+                "comment": "#肉弹吐司# #肉弹吐司#没有以前点的好吃了 肉饼也小了？",
+                "comment_type": 4,
+                "order_time": 1604332800,
+                "comment_time": 1604332800,
+                "ctime": 0,
+                "order_comment_score": 4,
+                "praise_food_tip": "",
+                "critic_food_tip": "",
+                "wm_comment_id": 3836504293,
+                "user_id": 0,
+                "user_poi_comment_num": 1,
+                "add_comment_list": [],
+                "comment_labels": [],
+                "order_type": 1,
+                "delivery_type": 0,
+                "delivery_name": "",
+                "comment_pics": [
+                    {
+                        "url": "https://p0.meituan.net/wmcomment/e2eda3938cb450028c001c60b8dcc59b120517.jpg.webp",
+                        "thumbnail_url": "https://p0.meituan.net/wmcomment/e2eda3938cb450028c001c60b8dcc59b120517.jpg.webp"
+                    }
+                ],
+                "user_pic_url": "http://p0.meituan.net/scarlett/8f283c9d7c6e7748b703502eaf4bb3ab5094.png",
+                "food_comment_score": 4,
+                "delivery_comment_score": 5,
+                "has_add_comment": false,
+                "is_picture_audited": false,
+                "poi_id": 0,
+                "scheme": "",
+                "comment_source_tip": "",
+                "comment_source_type": 3,
+                "praise_food_list": [],
+                "comment_scheme": [
+                    {
+                        "keyword": "肉弹吐司",
+                        "spu_id": 227678455,
+                        "sku_id": 247520746,
+                        "scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=227678455&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=247520746&referer_source=0"
+                    }
+                ],
+                "is_anonymous": 1,
+                "quality_score": 0,
+                "pack_score": 5,
+                "buz_code": 0,
+                "can_additional": 1,
+                "disable_additional_msg": "",
+                "high_quality": 0,
+                "is_dp": 0,
+                "user_type": 0,
+                "satisfaction_icon": "",
+                "spu_id_list": [],
+                "accurate_comment_score": 0,
+                "biz_type": 0,
+                "useful_count": 1,
+                "current_user_useful": false,
+                "user_labels": []
+            },
+            {
+                "user_name": "曹颖696",
+                "ship_score": 0.0,
+                "ship_time": 16,
+                "comment": "口味赞👍🏻包装好👌🏻推荐给大家！#虾肉蛋堡# #肉弹吐司#",
+                "comment_type": 4,
+                "order_time": 1603641600,
+                "comment_time": 1603641600,
+                "ctime": 0,
+                "order_comment_score": 5,
+                "praise_food_tip": "虾肉蛋堡,肉弹吐司等",
+                "critic_food_tip": "",
+                "wm_comment_id": 3811694456,
+                "user_id": 537479861,
+                "user_poi_comment_num": 1,
+                "add_comment_list": [],
+                "comment_labels": [],
+                "order_type": 1,
+                "delivery_type": 0,
+                "delivery_name": "",
+                "comment_pics": [
+                    {
+                        "url": "https://p0.meituan.net/wmcomment/74e44bc05622aecb885e7cd65818ba3c87202.jpg.webp",
+                        "thumbnail_url": "https://p0.meituan.net/wmcomment/74e44bc05622aecb885e7cd65818ba3c87202.jpg.webp"
+                    },
+                    {
+                        "url": "https://p0.meituan.net/wmcomment/f2206fe1a14d565d52ce78ba8d6de26d121180.jpg.webp",
+                        "thumbnail_url": "https://p0.meituan.net/wmcomment/f2206fe1a14d565d52ce78ba8d6de26d121180.jpg.webp"
+                    }
+                ],
+                "user_pic_url": "https://img.meituan.net/avatar/cc28da2b73bca8cf15abd2230497f7d8104706.jpg",
+                "food_comment_score": 5,
+                "delivery_comment_score": 5,
+                "has_add_comment": false,
+                "is_picture_audited": false,
+                "poi_id": 0,
+                "scheme": "",
+                "comment_source_tip": "",
+                "comment_source_type": 3,
+                "praise_food_list": [
+                    {
+                        "name": "虾肉蛋堡",
+                        "schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=2036081765&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=2317790643&referer_source=1",
+                        "spu_id": 2036081765,
+                        "sku_id": 2317790643
+                    },
+                    {
+                        "name": "肉弹吐司",
+                        "schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=227678455&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=247520746&referer_source=1",
+                        "spu_id": 227678455,
+                        "sku_id": 247520746
+                    }
+                ],
+                "comment_scheme": [
+                    {
+                        "keyword": "虾肉蛋堡",
+                        "spu_id": 2036081765,
+                        "sku_id": 2317790643,
+                        "scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=2036081765&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=2317790643&referer_source=0"
+                    },
+                    {
+                        "keyword": "肉弹吐司",
+                        "spu_id": 227678455,
+                        "sku_id": 247520746,
+                        "scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=227678455&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=247520746&referer_source=0"
+                    }
+                ],
+                "is_anonymous": 0,
+                "quality_score": 0,
+                "pack_score": 5,
+                "buz_code": 0,
+                "can_additional": 1,
+                "disable_additional_msg": "",
+                "high_quality": 0,
+                "is_dp": 0,
+                "user_type": 0,
+                "satisfaction_icon": "",
+                "spu_id_list": [],
+                "accurate_comment_score": 0,
+                "biz_type": 0,
+                "useful_count": 0,
+                "current_user_useful": false,
+                "user_labels": [
+                    {
+                        "type": 1,
+                        "text": "美团会员"
+                    },
+                    {
+                        "type": 2,
+                        "text": "回头客"
+                    }
+                ]
+            },
+            {
+                "user_name": "MOz84386534",
+                "ship_score": 0.0,
+                "ship_time": 24,
+                "comment": "老客户，东西不错，会回购。￼味道很好。￼",
+                "comment_type": 4,
+                "order_time": 1607788800,
+                "comment_time": 1607788800,
+                "ctime": 0,
+                "order_comment_score": 5,
+                "praise_food_tip": "肉弹吐司等",
+                "critic_food_tip": "",
+                "wm_comment_id": 3967107115,
+                "user_id": 65035040,
+                "user_poi_comment_num": 1,
+                "add_comment_list": [],
+                "comment_labels": [
+                    {
+                        "content": "货品完好",
+                        "label_type": 1
+                    },
+                    {
+                        "content": "快速准时",
+                        "label_type": 1
+                    },
+                    {
+                        "content": "礼貌热情",
+                        "label_type": 1
+                    }
+                ],
+                "order_type": 1,
+                "delivery_type": 0,
+                "delivery_name": "",
+                "comment_pics": [],
+                "user_pic_url": "https://img.meituan.net/avatar/4f98d82418e3bf1b435647c80d8dfdfc187467.jpg",
+                "food_comment_score": 5,
+                "delivery_comment_score": 5,
+                "has_add_comment": false,
+                "is_picture_audited": false,
+                "poi_id": 0,
+                "scheme": "",
+                "comment_source_tip": "",
+                "comment_source_type": 3,
+                "praise_food_list": [
+                    {
+                        "name": "肉弹吐司",
+                        "schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=3511302875&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=3937086250&referer_source=1",
+                        "spu_id": 3511302875,
+                        "sku_id": 3937086250
+                    }
+                ],
+                "comment_scheme": [],
+                "is_anonymous": 0,
+                "quality_score": 0,
+                "pack_score": 5,
+                "buz_code": 0,
+                "can_additional": 1,
+                "disable_additional_msg": "",
+                "high_quality": 0,
+                "is_dp": 0,
+                "user_type": 0,
+                "satisfaction_icon": "",
+                "spu_id_list": [],
+                "accurate_comment_score": 0,
+                "biz_type": 0,
+                "useful_count": 0,
+                "current_user_useful": false,
+                "user_labels": [
+                    {
+                        "type": 2,
+                        "text": "回头客"
+                    }
+                ]
+            },
+            {
+                "user_name": "BUt177314030",
+                "ship_score": 0.0,
+                "ship_time": 48,
+                "comment": "#墨西哥肉酱面#肉还挺多，还可以吧，个人更喜欢铁板那个",
+                "comment_type": 4,
+                "order_time": 1603900800,
+                "comment_time": 1603900800,
+                "ctime": 0,
+                "order_comment_score": 5,
+                "praise_food_tip": "",
+                "critic_food_tip": "",
+                "wm_comment_id": 3821573646,
+                "user_id": 301265048,
+                "user_poi_comment_num": 1,
+                "add_comment_list": [],
+                "comment_labels": [],
+                "order_type": 1,
+                "delivery_type": 0,
+                "delivery_name": "",
+                "comment_pics": [
+                    {
+                        "url": "https://p0.meituan.net/wmcomment/220d3662f0cb3358383850a907f638a4376948.jpg.webp",
+                        "thumbnail_url": "https://p0.meituan.net/wmcomment/220d3662f0cb3358383850a907f638a4376948.jpg.webp"
+                    }
+                ],
+                "user_pic_url": "https://img.meituan.net/avatar/eac4fc166d7de1803ec0d2b403ffba9258771.jpg",
+                "food_comment_score": 5,
+                "delivery_comment_score": 5,
+                "has_add_comment": false,
+                "is_picture_audited": false,
+                "poi_id": 0,
+                "scheme": "",
+                "comment_source_tip": "",
+                "comment_source_type": 3,
+                "praise_food_list": [],
+                "comment_scheme": [
+                    {
+                        "keyword": "墨西哥肉酱面",
+                        "spu_id": 2035833863,
+                        "sku_id": 2317730561,
+                        "scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=2035833863&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=2317730561&referer_source=0"
+                    }
+                ],
+                "is_anonymous": 0,
+                "quality_score": 0,
+                "pack_score": 5,
+                "buz_code": 0,
+                "can_additional": 1,
+                "disable_additional_msg": "",
+                "high_quality": 0,
+                "is_dp": 0,
+                "user_type": 0,
+                "satisfaction_icon": "",
+                "spu_id_list": [],
+                "accurate_comment_score": 0,
+                "biz_type": 0,
+                "useful_count": 0,
+                "current_user_useful": false,
+                "user_labels": [
+                    {
+                        "type": 1,
+                        "text": "美团会员"
+                    },
+                    {
+                        "type": 2,
+                        "text": "回头客"
+                    }
+                ]
+            },
+            {
+                "user_name": "匿名用户",
+                "ship_score": 0.0,
+                "ship_time": 43,
+                "comment": "你又要封口又不给我吸管 什么墨西哥肉酱面 确定不是红油面吗 没盐***甜的 真的瓜 难吃死了",
+                "comment_type": 4,
+                "order_time": 1604764800,
+                "comment_time": 1604764800,
+                "ctime": 0,
+                "order_comment_score": 1,
+                "praise_food_tip": "",
+                "critic_food_tip": "墨西哥肉酱面,培根酥皮饼,红糖姜茶等",
+                "wm_comment_id": 3850593562,
+                "user_id": 0,
+                "user_poi_comment_num": 1,
+                "add_comment_list": [],
+                "comment_labels": [],
+                "order_type": 1,
+                "delivery_type": 0,
+                "delivery_name": "",
+                "comment_pics": [],
+                "user_pic_url": "http://p0.meituan.net/scarlett/8f283c9d7c6e7748b703502eaf4bb3ab5094.png",
+                "food_comment_score": 1,
+                "delivery_comment_score": 5,
+                "has_add_comment": false,
+                "is_picture_audited": false,
+                "poi_id": 0,
+                "scheme": "",
+                "comment_source_tip": "",
+                "comment_source_type": 3,
+                "praise_food_list": [],
+                "comment_scheme": [
+                    {
+                        "keyword": "墨西哥肉酱面",
+                        "spu_id": 2035833863,
+                        "sku_id": 2317730561,
+                        "scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=2035833863&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=2317730561&referer_source=0"
+                    }
+                ],
+                "is_anonymous": 1,
+                "quality_score": 0,
+                "pack_score": 1,
+                "buz_code": 0,
+                "can_additional": 1,
+                "disable_additional_msg": "",
+                "high_quality": 0,
+                "is_dp": 0,
+                "user_type": 0,
+                "satisfaction_icon": "",
+                "spu_id_list": [],
+                "accurate_comment_score": 0,
+                "biz_type": 0,
+                "useful_count": 0,
+                "current_user_useful": false,
+                "user_labels": []
+            },
+            {
+                "user_name": "nIF822771529",
+                "ship_score": 0.0,
+                "ship_time": 19,
+                "comment": "可以",
+                "comment_type": 4,
+                "order_time": 1607011200,
+                "comment_time": 1607011200,
+                "ctime": 0,
+                "order_comment_score": 4,
+                "praise_food_tip": "",
+                "critic_food_tip": "",
+                "wm_comment_id": 3936607538,
+                "user_id": 491030142,
+                "user_poi_comment_num": 1,
+                "add_comment_list": [],
+                "comment_labels": [],
+                "order_type": 1,
+                "delivery_type": 0,
+                "delivery_name": "",
+                "comment_pics": [],
+                "user_pic_url": "http://p0.meituan.net/scarlett/8f283c9d7c6e7748b703502eaf4bb3ab5094.png",
+                "food_comment_score": 4,
+                "delivery_comment_score": 5,
+                "has_add_comment": false,
+                "is_picture_audited": false,
+                "poi_id": 0,
+                "scheme": "",
+                "comment_source_tip": "",
+                "comment_source_type": 3,
+                "praise_food_list": [],
+                "comment_scheme": [],
+                "is_anonymous": 0,
+                "quality_score": 0,
+                "pack_score": 4,
+                "buz_code": 0,
+                "can_additional": 1,
+                "disable_additional_msg": "",
+                "high_quality": 0,
+                "is_dp": 0,
+                "user_type": 0,
+                "satisfaction_icon": "",
+                "spu_id_list": [],
+                "accurate_comment_score": 0,
+                "biz_type": 0,
+                "useful_count": 0,
+                "current_user_useful": false,
+                "user_labels": [
+                    {
+                        "type": 1,
+                        "text": "美团会员"
+                    }
+                ]
+            },
+            {
+                "user_name": "DGp385892377",
+                "ship_score": 0.0,
+                "ship_time": 38,
+                "comment": "味道一如既往的好吃！！！！！！！！！！！#铁板肉酱面加蛋#",
+                "comment_type": 11,
+                "order_time": 1604160000,
+                "comment_time": 1604160000,
+                "ctime": 0,
+                "order_comment_score": 5,
+                "praise_food_tip": "",
+                "critic_food_tip": "",
+                "wm_comment_id": 3830888159,
+                "user_id": 827137272,
+                "user_poi_comment_num": 1,
+                "add_comment_list": [],
+                "comment_labels": [
+                    {
+                        "content": "货品完好",
+                        "label_type": 1
+                    },
+                    {
+                        "content": "仪表整洁",
+                        "label_type": 1
+                    },
+                    {
+                        "content": "穿戴工服",
+                        "label_type": 1
+                    },
+                    {
+                        "content": "礼貌热情",
+                        "label_type": 1
+                    },
+                    {
+                        "content": "风雨无阻",
+                        "label_type": 1
+                    },
+                    {
+                        "content": "快速准时",
+                        "label_type": 1
+                    }
+                ],
+                "order_type": 1,
+                "delivery_type": 0,
+                "delivery_name": "",
+                "comment_pics": [
+                    {
+                        "url": "https://p0.meituan.net/wmcomment/dc1131ebccb2d83be0c7389ee8d1a7d829903.jpg.webp",
+                        "thumbnail_url": "https://p0.meituan.net/wmcomment/dc1131ebccb2d83be0c7389ee8d1a7d829903.jpg.webp"
+                    }
+                ],
+                "user_pic_url": "https://img.meituan.net/avatar/c069d29fbb85648acf8245712a9ef1f930835.jpg",
+                "food_comment_score": 5,
+                "delivery_comment_score": 5,
+                "has_add_comment": false,
+                "is_picture_audited": false,
+                "poi_id": 0,
+                "scheme": "",
+                "comment_source_tip": "",
+                "comment_source_type": 3,
+                "praise_food_list": [],
+                "comment_scheme": [
+                    {
+                        "keyword": "铁板肉酱面加蛋",
+                        "spu_id": 1686206336,
+                        "sku_id": 1914952123,
+                        "scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=1686206336&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=1914952123&referer_source=0"
+                    },
+                    {
+                        "keyword": "经典蛋饼",
+                        "spu_id": 253389476,
+                        "sku_id": 275888719,
+                        "scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=253389476&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=275888719&referer_source=0"
+                    }
+                ],
+                "is_anonymous": 0,
+                "quality_score": 0,
+                "pack_score": 5,
+                "buz_code": 0,
+                "can_additional": 1,
+                "disable_additional_msg": "",
+                "high_quality": 0,
+                "is_dp": 0,
+                "user_type": 0,
+                "satisfaction_icon": "",
+                "spu_id_list": [],
+                "accurate_comment_score": 0,
+                "biz_type": 0,
+                "useful_count": 0,
+                "current_user_useful": false,
+                "user_labels": [
+                    {
+                        "type": 1,
+                        "text": "美团会员"
+                    },
+                    {
+                        "type": 2,
+                        "text": "回头客"
+                    }
+                ]
+            },
+            {
+                "user_name": "匿名用户",
+                "ship_score": 0.0,
+                "ship_time": 55,
+                "comment": "#活力牛排#不好吃就没有以前的铁板面好吃￼",
+                "comment_type": 4,
+                "order_time": 1605283200,
+                "comment_time": 1605283200,
+                "ctime": 0,
+                "order_comment_score": 2,
+                "praise_food_tip": "肉弹吐司,乌龙奶茶等",
+                "critic_food_tip": "活力牛排,厚切牛排吐司等",
+                "wm_comment_id": 3868135037,
+                "user_id": 0,
+                "user_poi_comment_num": 1,
+                "add_comment_list": [],
+                "comment_labels": [],
+                "order_type": 1,
+                "delivery_type": 0,
+                "delivery_name": "",
+                "comment_pics": [],
+                "user_pic_url": "http://p0.meituan.net/scarlett/8f283c9d7c6e7748b703502eaf4bb3ab5094.png",
+                "food_comment_score": 2,
+                "delivery_comment_score": 5,
+                "has_add_comment": false,
+                "is_picture_audited": false,
+                "poi_id": 0,
+                "scheme": "",
+                "comment_source_tip": "",
+                "comment_source_type": 3,
+                "praise_food_list": [
+                    {
+                        "name": "肉弹吐司",
+                        "schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=227678455&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=247520746&referer_source=1",
+                        "spu_id": 227678455,
+                        "sku_id": 247520746
+                    },
+                    {
+                        "name": "乌龙奶茶",
+                        "schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=227680148&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=247520754&referer_source=1",
+                        "spu_id": 227680148,
+                        "sku_id": 247520754
+                    }
+                ],
+                "comment_scheme": [
+                    {
+                        "keyword": "活力牛排",
+                        "spu_id": 3196342507,
+                        "sku_id": 3582251107,
+                        "scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=3196342507&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=3582251107&referer_source=0"
+                    }
+                ],
+                "is_anonymous": 1,
+                "quality_score": 0,
+                "pack_score": 4,
+                "buz_code": 0,
+                "can_additional": 1,
+                "disable_additional_msg": "",
+                "high_quality": 0,
+                "is_dp": 0,
+                "user_type": 0,
+                "satisfaction_icon": "",
+                "spu_id_list": [],
+                "accurate_comment_score": 0,
+                "biz_type": 0,
+                "useful_count": 0,
+                "current_user_useful": false,
+                "user_labels": [
+                    {
+                        "type": 2,
+                        "text": "回头客"
+                    }
+                ]
+            },
+            {
+                "user_name": "我是会飞的鸵鸟",
+                "ship_score": 0.0,
+                "ship_time": 21,
+                "comment": "长期吃，味道不错，是一家来了就想就想吃",
+                "comment_type": 4,
+                "order_time": 1606492800,
+                "comment_time": 1606492800,
+                "ctime": 0,
+                "order_comment_score": 5,
+                "praise_food_tip": "芝士牛肉堡,奶油蘑菇汤,生猛薯条等",
+                "critic_food_tip": "",
+                "wm_comment_id": 3915350211,
+                "user_id": 5565716,
+                "user_poi_comment_num": 1,
+                "add_comment_list": [],
+                "comment_labels": [],
+                "order_type": 1,
+                "delivery_type": 0,
+                "delivery_name": "",
+                "comment_pics": [],
+                "user_pic_url": "http://p0.meituan.net/scarlett/8f283c9d7c6e7748b703502eaf4bb3ab5094.png",
+                "food_comment_score": 5,
+                "delivery_comment_score": 5,
+                "has_add_comment": false,
+                "is_picture_audited": false,
+                "poi_id": 0,
+                "scheme": "",
+                "comment_source_tip": "",
+                "comment_source_type": 3,
+                "praise_food_list": [
+                    {
+                        "name": "芝士牛肉堡",
+                        "schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=227680151&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=247520758&referer_source=1",
+                        "spu_id": 227680151,
+                        "sku_id": 247520758
+                    },
+                    {
+                        "name": "奶油蘑菇汤",
+                        "schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=227678470&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=247521257&referer_source=1",
+                        "spu_id": 227678470,
+                        "sku_id": 247521257
+                    },
+                    {
+                        "name": "生猛薯条",
+                        "schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=253383467&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=275882961&referer_source=1",
+                        "spu_id": 253383467,
+                        "sku_id": 275882961
+                    }
+                ],
+                "comment_scheme": [],
+                "is_anonymous": 0,
+                "quality_score": 0,
+                "pack_score": 5,
+                "buz_code": 0,
+                "can_additional": 1,
+                "disable_additional_msg": "",
+                "high_quality": 0,
+                "is_dp": 0,
+                "user_type": 0,
+                "satisfaction_icon": "",
+                "spu_id_list": [],
+                "accurate_comment_score": 0,
+                "biz_type": 0,
+                "useful_count": 0,
+                "current_user_useful": false,
+                "user_labels": [
+                    {
+                        "type": 2,
+                        "text": "回头客"
+                    }
+                ]
+            },
+            {
+                "user_name": "匿名用户",
+                "ship_score": 0.0,
+                "ship_time": 28,
+                "comment": "#厚切牛排吐司#这....和图片严重不符...味道还可以",
+                "comment_type": 4,
+                "order_time": 1602432000,
+                "comment_time": 1602432000,
+                "ctime": 0,
+                "order_comment_score": 3,
+                "praise_food_tip": "",
+                "critic_food_tip": "",
+                "wm_comment_id": 3768590396,
+                "user_id": 0,
+                "user_poi_comment_num": 1,
+                "add_comment_list": [],
+                "comment_labels": [],
+                "order_type": 1,
+                "delivery_type": 0,
+                "delivery_name": "",
+                "comment_pics": [
+                    {
+                        "url": "https://p0.meituan.net/wmcomment/bcf03a263d01b610874a6c311e43ca7773048.jpg.webp",
+                        "thumbnail_url": "https://p0.meituan.net/wmcomment/bcf03a263d01b610874a6c311e43ca7773048.jpg.webp"
+                    },
+                    {
+                        "url": "https://p0.meituan.net/wmcomment/8c0aa6f8cb0a6b92200958cd3768f6db33939.jpg.webp",
+                        "thumbnail_url": "https://p0.meituan.net/wmcomment/8c0aa6f8cb0a6b92200958cd3768f6db33939.jpg.webp"
+                    }
+                ],
+                "user_pic_url": "http://p0.meituan.net/scarlett/8f283c9d7c6e7748b703502eaf4bb3ab5094.png",
+                "food_comment_score": 3,
+                "delivery_comment_score": 5,
+                "has_add_comment": false,
+                "is_picture_audited": false,
+                "poi_id": 0,
+                "scheme": "",
+                "comment_source_tip": "",
+                "comment_source_type": 3,
+                "praise_food_list": [],
+                "comment_scheme": [
+                    {
+                        "keyword": "厚切牛排吐司",
+                        "spu_id": 3195702737,
+                        "sku_id": 3581125134,
+                        "scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=3195702737&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=3581125134&referer_source=0"
+                    }
+                ],
+                "is_anonymous": 1,
+                "quality_score": 0,
+                "pack_score": 5,
+                "buz_code": 0,
+                "can_additional": 1,
+                "disable_additional_msg": "",
+                "high_quality": 0,
+                "is_dp": 0,
+                "user_type": 0,
+                "satisfaction_icon": "",
+                "spu_id_list": [],
+                "accurate_comment_score": 0,
+                "biz_type": 0,
+                "useful_count": 2,
+                "current_user_useful": false,
+                "user_labels": []
+            },
+            {
+                "user_name": "匿名用户",
+                "ship_score": 0.0,
+                "ship_time": 27,
+                "comment": "#肉弹吐司# #生猛薯条#薯条没味道不香，吐司也感觉一般般……",
+                "comment_type": 4,
+                "order_time": 1601913600,
+                "comment_time": 1601913600,
+                "ctime": 0,
+                "order_comment_score": 3,
+                "praise_food_tip": "",
+                "critic_food_tip": "",
+                "wm_comment_id": 3748052865,
+                "user_id": 0,
+                "user_poi_comment_num": 1,
+                "add_comment_list": [],
+                "comment_labels": [],
+                "order_type": 1,
+                "delivery_type": 0,
+                "delivery_name": "",
+                "comment_pics": [
+                    {
+                        "url": "https://p0.meituan.net/wmcomment/1d5ae626dd2da6f76b255f9b62f288c653736.jpg.webp",
+                        "thumbnail_url": "https://p0.meituan.net/wmcomment/1d5ae626dd2da6f76b255f9b62f288c653736.jpg.webp"
+                    }
+                ],
+                "user_pic_url": "http://p0.meituan.net/scarlett/8f283c9d7c6e7748b703502eaf4bb3ab5094.png",
+                "food_comment_score": 3,
+                "delivery_comment_score": 5,
+                "has_add_comment": false,
+                "is_picture_audited": false,
+                "poi_id": 0,
+                "scheme": "",
+                "comment_source_tip": "",
+                "comment_source_type": 3,
+                "praise_food_list": [],
+                "comment_scheme": [
+                    {
+                        "keyword": "肉弹吐司",
+                        "spu_id": 227678455,
+                        "sku_id": 247520746,
+                        "scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=227678455&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=247520746&referer_source=0"
+                    },
+                    {
+                        "keyword": "生猛薯条",
+                        "spu_id": 253383467,
+                        "sku_id": 275882961,
+                        "scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=253383467&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=275882961&referer_source=0"
+                    }
+                ],
+                "is_anonymous": 1,
+                "quality_score": 0,
+                "pack_score": 3,
+                "buz_code": 0,
+                "can_additional": 1,
+                "disable_additional_msg": "",
+                "high_quality": 0,
+                "is_dp": 0,
+                "user_type": 0,
+                "satisfaction_icon": "",
+                "spu_id_list": [],
+                "accurate_comment_score": 0,
+                "biz_type": 0,
+                "useful_count": 0,
+                "current_user_useful": false,
+                "user_labels": []
+            },
+            {
+                "user_name": "DenT.",
+                "ship_score": 0.0,
+                "ship_time": 17,
+                "comment": "老客人点了十几回了！一如既往好好好好吃",
+                "comment_type": 4,
+                "order_time": 1606060800,
+                "comment_time": 1606060800,
+                "ctime": 0,
+                "order_comment_score": 5,
+                "praise_food_tip": "芝士牛肉堡,奶油蘑菇汤等",
+                "critic_food_tip": "",
+                "wm_comment_id": 3900997669,
+                "user_id": 384048859,
+                "user_poi_comment_num": 1,
+                "add_comment_list": [],
+                "comment_labels": [],
+                "order_type": 1,
+                "delivery_type": 0,
+                "delivery_name": "",
+                "comment_pics": [],
+                "user_pic_url": "https://img.meituan.net/avatar/5dacf55e8940fa6a3308aceb2202f4c231514.jpg",
+                "food_comment_score": 5,
+                "delivery_comment_score": 5,
+                "has_add_comment": false,
+                "is_picture_audited": false,
+                "poi_id": 0,
+                "scheme": "",
+                "comment_source_tip": "",
+                "comment_source_type": 3,
+                "praise_food_list": [
+                    {
+                        "name": "芝士牛肉堡",
+                        "schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=227680151&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=1491708526&referer_source=1",
+                        "spu_id": 227680151,
+                        "sku_id": 1491708526
+                    },
+                    {
+                        "name": "奶油蘑菇汤",
+                        "schema_uri": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=227678470&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=247521257&referer_source=1",
+                        "spu_id": 227678470,
+                        "sku_id": 247521257
+                    }
+                ],
+                "comment_scheme": [],
+                "is_anonymous": 0,
+                "quality_score": 0,
+                "pack_score": 5,
+                "buz_code": 0,
+                "can_additional": 1,
+                "disable_additional_msg": "",
+                "high_quality": 0,
+                "is_dp": 0,
+                "user_type": 0,
+                "satisfaction_icon": "",
+                "spu_id_list": [],
+                "accurate_comment_score": 0,
+                "biz_type": 0,
+                "useful_count": 0,
+                "current_user_useful": false,
+                "user_labels": [
+                    {
+                        "type": 2,
+                        "text": "回头客"
+                    }
+                ]
+            },
+            {
+                "user_name": "火锅业务爱好者",
+                "ship_score": 0.0,
+                "ship_time": 20,
+                "comment": "牛排太少了，吐司味道还可以",
+                "comment_type": 4,
+                "order_time": 1605196800,
+                "comment_time": 1605196800,
+                "ctime": 0,
+                "order_comment_score": 4,
+                "praise_food_tip": "",
+                "critic_food_tip": "",
+                "wm_comment_id": 3866073573,
+                "user_id": 226416095,
+                "user_poi_comment_num": 1,
+                "add_comment_list": [],
+                "comment_labels": [],
+                "order_type": 1,
+                "delivery_type": 0,
+                "delivery_name": "",
+                "comment_pics": [],
+                "user_pic_url": "https://img.meituan.net/avatar/ad48e4129ab9e8d9bf966197694f1a4e12536.jpg",
+                "food_comment_score": 4,
+                "delivery_comment_score": 5,
+                "has_add_comment": false,
+                "is_picture_audited": false,
+                "poi_id": 0,
+                "scheme": "",
+                "comment_source_tip": "",
+                "comment_source_type": 3,
+                "praise_food_list": [],
+                "comment_scheme": [
+                    {
+                        "keyword": "厚切牛排吐司",
+                        "spu_id": 3195702737,
+                        "sku_id": 3581125134,
+                        "scheme_url": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=3195702737&wmpoiid=1019617870594095&sputag=&activitytag=&sku_id=3581125134&referer_source=0"
+                    }
+                ],
+                "is_anonymous": 0,
+                "quality_score": 0,
+                "pack_score": 5,
+                "buz_code": 0,
+                "can_additional": 1,
+                "disable_additional_msg": "",
+                "high_quality": 0,
+                "is_dp": 0,
+                "user_type": 0,
+                "satisfaction_icon": "",
+                "spu_id_list": [],
+                "accurate_comment_score": 0,
+                "biz_type": 0,
+                "useful_count": 0,
+                "current_user_useful": false,
+                "user_labels": []
+            }
+        ],
+        "labels": [
+            {
+                "label_id": 75,
+                "content": "味道赞",
+                "label_count": 24,
+                "label_star": 5
+            },
+            {
+                "label_id": 80,
+                "content": "早餐",
+                "label_count": 6,
+                "label_star": 5
+            },
+            {
+                "label_id": 36,
+                "content": "推荐",
+                "label_count": 4,
+                "label_star": 5
+            },
+            {
+                "label_id": 29,
+                "content": "包装好",
+                "label_count": 4,
+                "label_star": 5
+            }
+        ],
+        "comment_categories": [],
+        "buz_code": 0,
+        "comment_praise_ratio": -1,
+        "has_more": true,
+        "friend_status_banner": {
+            "friend_status": 2,
+            "friend_status_tip": "",
+            "bind_schema": ""
+        },
+        "scores": {
+            "comment_score": 5.0,
+            "delivery_score": 5.0,
+            "quality_score": 5.0,
+            "pack_score": 5.0,
+            "show": 1,
+            "satisfaction_rate": "100%"
+        },
+        "tab": [
+            {
+                "comment_score_type": 0,
+                "total_count": 446,
+                "comment_score_title": "外卖评价"
+            },
+            {
+                "comment_score_type": 21,
+                "total_count": 104,
+                "comment_score_title": "到店评价(3.83分)"
+            }
+        ],
+        "comment_label_tips": [
+            {
+                "level": 1,
+                "tip": "非常差"
+            },
+            {
+                "level": 2,
+                "tip": "差"
+            },
+            {
+                "level": 3,
+                "tip": "一般"
+            },
+            {
+                "level": 4,
+                "tip": "满意"
+            },
+            {
+                "level": 5,
+                "tip": "非常满意"
+            }
+        ],
+        "comment_tip_info": "记得餐后评价，给他人参考哦~",
+        "comments_dp": {
+            "show": 1,
+            "wm_poi_id": 1019617870594095,
+            "dp_poi_id": 79434229,
+            "title": "大众点评",
+            "comment_score": 3.5,
+            "total_count_desc": "104条到店评价",
+            "accurate_comment_score": 3.83,
+            "comments": []
+        }
+    },
+    "code": 0,
+    "msg": "成功",
+    "traceid": "-5066593757239299045"
+}
