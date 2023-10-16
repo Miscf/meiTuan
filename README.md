@@ -1,4 +1,4 @@
-# 早已失效！！仅供参考
+# 早已失效！！仅供参考！！没有一点儿技术含量！！
 
 # meiTuan
 美团外卖app爬虫 // meituanwaimai spider
